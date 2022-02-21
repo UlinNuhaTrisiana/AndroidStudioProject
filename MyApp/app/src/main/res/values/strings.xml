@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project Application</string>
+    <string name="aktif">Kasus Aktif</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="total">Jumlah Kasus</string>
+    <string name="mati">Meninggal</string>
+    <string name="virus">COVID-19 Tracker</string>
+    <string name="kasus">Kasus</string>
+    <string name="negara">Negara</string>
+    <string name="i_num">12345</string>
+    <string name="num">23456</string>
+
+</resources>
